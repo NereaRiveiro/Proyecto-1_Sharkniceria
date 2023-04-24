@@ -12,5 +12,7 @@ def modificar_nombre(nombre):
         return nombre.title()[:-1]
     elif nombre is 'N/A':
         return 'N/A'
+    elif '&' in nombre:
+        nombre.replace('&', '/')
     else:
         return nombre.title()
