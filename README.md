@@ -53,9 +53,6 @@ Para practicar el proceso de limpieza de datos se nos facilita la base de datos 
 - [NUMPY](https://numpy.org/doc/1.18/).
 - [PANDAS](https://pandas.pydata.org/).
 - [PYTHON](https://docs.python.org/3/library/functions.html).
-- [PLOTLY](https://plotly.com/python/).
-- [MATPLOTLIB](https://matplotlib.org/). 
-- [SEABORN](https://seaborn.pydata.org/).
 
 
 
